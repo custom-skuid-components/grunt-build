@@ -1,0 +1,26 @@
+{
+   "id": "test",
+   "components": [
+      {
+         "id": "sayhello",
+         "folderId": "test"
+      }
+   ],
+   "folders": [
+      {
+         "id": "test",
+         "name": "testComponent",
+         "icon": "sk-icon-component-pack"
+      }
+   ],
+   "js": [
+      {
+         "path": "builders.js"
+      }
+   ],
+   "css": [
+      {
+         "path": "builders.css"
+      }
+   ]
+}

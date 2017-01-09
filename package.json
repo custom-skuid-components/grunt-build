@@ -1,0 +1,19 @@
+{
+  "name": "testComponents",
+  "version": "1.0.0",
+  "description": "Skuid grunt deploy scripts",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Henry Goddard",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-ant-sfdc": "*",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-compress": "*",
+    "grunt-contrib-copy": "*"
+  }
+}
